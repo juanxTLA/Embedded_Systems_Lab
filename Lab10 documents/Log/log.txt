@@ -1,0 +1,77 @@
+Thu Nov 19 17:36:17 2020:	* -----/|-------------------------------------------------------------------- *
+Thu Nov 19 17:36:17 2020:	*     / |__                                                                   *
+Thu Nov 19 17:36:17 2020:	*    /_   /   MSP Flasher v1.3.20                                             *
+Thu Nov 19 17:36:17 2020:	*      | /                                                                    *
+Thu Nov 19 17:36:17 2020:	* -----|/-------------------------------------------------------------------- *
+Thu Nov 19 17:36:17 2020:	*
+Thu Nov 19 17:36:17 2020:	* Evaluating triggers...done
+Thu Nov 19 17:36:17 2020:	* Checking for available FET debuggers: 
+Thu Nov 19 17:36:17 2020:	* Couldn't find any connected USB FETs!
+Thu Nov 19 17:36:17 2020:	* Powering down...done
+Thu Nov 19 17:36:17 2020:	* Disconnecting from device...done
+Thu Nov 19 17:36:17 2020:	* 
+Thu Nov 19 17:36:17 2020:	* ----------------------------------------------------------------------------
+Thu Nov 19 17:36:17 2020:	* Driver      : closed (MSP DebugStack not initialized)
+Thu Nov 19 17:36:17 2020:	* ----------------------------------------------------------------------------
+Thu Nov 19 17:36:17 2020:	*/
+Thu Nov 19 17:38:25 2020:	* -----/|-------------------------------------------------------------------- *
+Thu Nov 19 17:38:25 2020:	*     / |__                                                                   *
+Thu Nov 19 17:38:25 2020:	*    /_   /   MSP Flasher v1.3.20                                             *
+Thu Nov 19 17:38:25 2020:	*      | /                                                                    *
+Thu Nov 19 17:38:25 2020:	* -----|/-------------------------------------------------------------------- *
+Thu Nov 19 17:38:25 2020:	*
+Thu Nov 19 17:38:25 2020:	* Evaluating triggers...done
+Thu Nov 19 17:38:25 2020:	* Checking for available FET debuggers: 
+Thu Nov 19 17:38:25 2020:	* Couldn't find any connected USB FETs!
+Thu Nov 19 17:38:25 2020:	* Starting target code execution...done
+Thu Nov 19 17:38:25 2020:	* Disconnecting from device...done
+Thu Nov 19 17:38:25 2020:	* 
+Thu Nov 19 17:38:25 2020:	* ----------------------------------------------------------------------------
+Thu Nov 19 17:38:25 2020:	* Driver      : closed (MSP DebugStack not initialized)
+Thu Nov 19 17:38:25 2020:	* ----------------------------------------------------------------------------
+Thu Nov 19 17:38:25 2020:	*/
+Thu Nov 19 17:39:02 2020:	* -----/|-------------------------------------------------------------------- *
+Thu Nov 19 17:39:02 2020:	*     / |__                                                                   *
+Thu Nov 19 17:39:02 2020:	*    /_   /   MSP Flasher v1.3.20                                             *
+Thu Nov 19 17:39:02 2020:	*      | /                                                                    *
+Thu Nov 19 17:39:02 2020:	* -----|/-------------------------------------------------------------------- *
+Thu Nov 19 17:39:02 2020:	*
+Thu Nov 19 17:39:02 2020:	* Evaluating triggers...done
+Thu Nov 19 17:39:02 2020:	* Checking for available FET debuggers: 
+Thu Nov 19 17:39:02 2020:	* Found USB FET @ COM3 <- Selected
+Thu Nov 19 17:39:02 2020:	* Initializing interface @ COM3...done
+Thu Nov 19 17:39:03 2020:	* Checking firmware compatibility: 
+Thu Nov 19 17:39:03 2020:	* FET firmware is up to date.
+Thu Nov 19 17:39:03 2020:	* Reading FW version...
+Thu Nov 19 17:39:03 2020:	* Debugger does not support target voltages other than 3000 mV!
+Thu Nov 19 17:39:03 2020:	* Setting VCC to 3000 mV...done
+Thu Nov 19 17:39:03 2020:	* Accessing device...done
+Thu Nov 19 17:39:03 2020:	* Reading device information...done
+Thu Nov 19 17:39:03 2020:	* Loading file into device...done
+Thu Nov 19 17:39:06 2020:	* Verifying memory (.\reverse_me.txt)...done
+Thu Nov 19 17:39:07 2020:	* 
+Thu Nov 19 17:39:07 2020:	* ----------------------------------------------------------------------------
+Thu Nov 19 17:39:07 2020:	* Arguments   : -n MSP430F5529 -w .\reverse_me.txt -v -z [Vcc] 
+Thu Nov 19 17:39:07 2020:	* ----------------------------------------------------------------------------
+Thu Nov 19 17:39:07 2020:	* Driver      : loaded
+Thu Nov 19 17:39:07 2020:	* Dll Version : 31400000
+Thu Nov 19 17:39:07 2020:	* FwVersion   : 31200000
+Thu Nov 19 17:39:07 2020:	* Interface   : TIUSB
+Thu Nov 19 17:39:07 2020:	* HwVersion   : E 3.0
+Thu Nov 19 17:39:07 2020:	* JTAG Mode   : AUTO
+Thu Nov 19 17:39:07 2020:	* Device      : MSP430F5529
+Thu Nov 19 17:39:07 2020:	* EEM         : Level 7, ClockCntrl 2
+Thu Nov 19 17:39:07 2020:	* Erase Mode  : ERASE_ALL
+Thu Nov 19 17:39:07 2020:	* Prog.File   : .\reverse_me.txt
+Thu Nov 19 17:39:07 2020:	* Verified    : TRUE
+Thu Nov 19 17:39:07 2020:	* BSL Unlock  : FALSE
+Thu Nov 19 17:39:07 2020:	* InfoA Access: FALSE
+Thu Nov 19 17:39:07 2020:	* VCC ON      : 3000 mV
+Thu Nov 19 17:39:07 2020:	* ----------------------------------------------------------------------------
+Thu Nov 19 17:39:07 2020:	* Starting target code execution...done
+Thu Nov 19 17:39:07 2020:	* Disconnecting from device...done
+Thu Nov 19 17:39:07 2020:	* 
+Thu Nov 19 17:39:07 2020:	* ----------------------------------------------------------------------------
+Thu Nov 19 17:39:07 2020:	* Driver      : closed (No error)
+Thu Nov 19 17:39:07 2020:	* ----------------------------------------------------------------------------
+Thu Nov 19 17:39:07 2020:	*/
